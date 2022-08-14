@@ -32,16 +32,16 @@
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Gitkraken" src ="https://img.shields.io/badge/GITKRAKEN-179287.svg?&style=for-the-badge&logo=GITKRAKEN&logoColor=white"/>
 </div>
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
 <hr/>
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
 
 
 
