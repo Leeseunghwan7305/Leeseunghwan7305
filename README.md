@@ -33,13 +33,6 @@
 
 
 
-<a href="https://github.com/Leeseunghwan7305">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeseunghwan7305&theme=tokyonight" height="180"/>
-</a>
-<a href="https://github.com/Leeseunghwan7305">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeseunghwan7305&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
-</a>
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun1238799)](https://solved.ac/sun1238799/)
  
